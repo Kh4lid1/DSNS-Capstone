@@ -9,20 +9,20 @@
 
 ## Installations <a name="installation"></a>
 This project using python 3 and the following is the libraries tha are needed to be imported
--import matplotlib.pyplot as plt
--from sklearn.model_selection import train_test_split
--from sklearn.tree import DecisionTreeClassifier
--from sklearn.ensemble import RandomForestClassifier
--from sklearn.metrics import accuracy_score
--from sklearn.model_selection import GridSearchCV
--from sklearn.preprocessing import StandardScaler
--import seaborn as sns
--import pandas as pd
--import numpy as np
--import math
--import json
--from sklearn.linear_model import LinearRegression
--from sklearn.model_selection import train_test_split
+- import matplotlib.pyplot as plt
+- from sklearn.model_selection import train_test_split
+- from sklearn.tree import DecisionTreeClassifier
+- from sklearn.ensemble import RandomForestClassifier
+- from sklearn.metrics import accuracy_score
+- from sklearn.model_selection import GridSearchCV
+- from sklearn.preprocessing import StandardScaler
+- import seaborn as sns
+- import pandas as pd
+- import numpy as np
+- import math
+- import json
+- from sklearn.linear_model import LinearRegression
+- from sklearn.model_selection import train_test_split
 
 ## Project Motivation <a name="ProjectMotivation"></a>
 In this project, I was intersetd to build a model to pridect what an action a user will do to an offer(offer-viewed, offer-received, offer-completed).
